@@ -1,0 +1,8 @@
+1.-Crear una carpeta utils con los siguientes 
+archivos Errors.ts clase de manejo de errores 
+NotFound y ValidationError 
+EventEmitter.ts Crea la lógica para la escucha 
+de eventos cuando se ejecuta alguna acción por 
+ejemplo la creación de un libro
+
+2.crear interfaces para la inyección de servicios
